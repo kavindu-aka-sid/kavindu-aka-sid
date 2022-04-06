@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All my details are on [https://kavindunimsara.ml/html/index.html](https://kavindunimsara.ml/html/index.html)
+- 👨‍💻 All my details are on [https://kavindunimsara.ml/html/index.html](https://kavindunimsara.ml/)
 
 - 📫 How to reach me **kavibro000@gmail.com**
 
