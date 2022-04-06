@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://dev.to/kavinduakasid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kavinduakasid" height="30" width="40" /></a>
 <a href="https://twitter.com/kavindu_sl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindu_sl" height="30" width="40" /></a>
-<a href="https://instagram.com/kavinduakasid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavinduakasid" height="30" width="40" /></a>
+<a href="https://instagram.com/itzsid_lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavinduakasid" height="30" width="40" /></a>
 <a href="https://medium.com/@kavinduakasid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kavinduakasid" height="30" width="40" /></a>
 <a href="https://discord.gg/rMxCRGQNa6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rMxCRGQNa6" height="30" width="40" /></a>
 </p>
