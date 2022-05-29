@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All my details are on [https://kavindunimsara.ml/html/index.html](https://kavindunimsara.ml/)
+- 👨‍💻 All my details are on [https://kavindunimsara.ml/](https://kavindunimsara.ml/)
 
 - 📫 How to reach me **kavibro000@gmail.com**
 
