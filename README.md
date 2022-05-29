@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **QUBE OS**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All my details are on [https://kavindunimsara.ml/html/index.html](https://kavindunimsara.ml/)
 
 - 📫 How to reach me **kavibro000@gmail.com**
 
-- ⚡ Fun fact **One thing I cannot live without is **Programming****
+- ⚡ Fun fact **: One thing I cannot live without is **Programming****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
