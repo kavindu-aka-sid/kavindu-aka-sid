@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm [Kavindu](https://github.com/kavindu-aka-sid) 👨‍💻
-
 <br/>
-
 <a href="https://www.instagram.com/itzsid_lk">
   <img align="left" alt="Kavindu's Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
 </a>
