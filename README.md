@@ -34,7 +34,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 </p>
 
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+![Snake animation](https://github.com/itzkavindu/itzkavindu/blob/output/github-contribution-grid-snake.svg)
   
 ### ✨ Quick Facts
 
