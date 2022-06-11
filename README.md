@@ -1,4 +1,6 @@
 ### Hi there 👋, I'm [Kavindu](https://github.com/kavindu-aka-sid) 👨‍💻
+![](https://komarev.com/ghpvc/?username=itzkavindu)
+
 <br/>
 <a href="https://www.instagram.com/itzsid_lk">
   <img align="left" alt="Kavindu's Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />
