@@ -33,9 +33,6 @@ Things I am currently experimenting with : Flutter
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
 
-
-![Snake animation](https://github.com/itzkavindu/itzkavindu/blob/output/github-contribution-grid-snake.svg)
-  
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I'm a 14 years old school student.
@@ -66,6 +63,9 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 
+
+### 🐍 My Contribution Graph Gets Eaten By a Snake 
+![Snake animation](https://github.com/itzkavindu/itzkavindu/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 👣 Next Steps
