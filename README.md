@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Kavindu](https://github.com/kavindu-aka-sid) 👨‍💻
+### Hi there 👋, I'm [Kavindu](https://github.com/itzkavindu) 👨‍💻
 ![](https://komarev.com/ghpvc/?username=itzkavindu)
 
 <br/>
@@ -40,7 +40,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - 💬 Ask me about anything related to Python, JS, React, HTML, Firebase.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading Story Books, Playing Chess , Playing games.
 - 📫 How to reach me: kavibro000@gmail.com
-- 📝 Portfolio: https://kavindunimsara.ml
+- 📝 Portfolio: https://kavindunimsara.me
 <!--- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)-->
 
 ### 🛠️ Languages and Tools:
