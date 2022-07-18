@@ -28,7 +28,7 @@ A Skilled Programmer 🚀 from Sri Lanka. Always working on some project or lear
 <br/>
 These are the programming languages I know the most : Python, HTML, CSS, C#, C++, Ruby, PHP, JavaScript
 <br/>  
-Things I am currently experimenting with : Flutter 
+Things I am currently experimenting with : React JS 
 <br/>
 Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
 </p>
@@ -36,7 +36,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I'm a 14 years old school student.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning React JS.
 - 💬 Ask me about anything related to Python, JS, React, HTML, Firebase.(After googling it 😜😌)
 - 🎿 Hobbies other than coding : Reading Story Books, Playing Chess , Playing games.
 - 📫 How to reach me: kavibro000@gmail.com
