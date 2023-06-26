@@ -14,7 +14,7 @@
   <img align="left" alt="Kavindu Nimsara | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="mailto:kavibro000@gmail.com">
+<a href="mailto:contact@kavindunimsara.com">
   <img align="left" alt="Kavindu's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -72,6 +72,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [![Gmail Badge](https://img.shields.io/badge/-kavibro000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavibro000@gmail.com)](mailto:contact@kavindunimsara.com)
+❤️ Offer work : Send the offer on [![Gmail Badge](https://img.shields.io/badge/-contact@kavindunimsara.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@kavindunimsara.com)](mailto:contact@kavindunimsara.com)
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Instagram-kavindu?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/itzsid_lk)](https://www.instagram.com/itzsid_lk)
