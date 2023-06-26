@@ -72,6 +72,6 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
 
-❤️ Offer work : Send the offer on [![Gmail Badge](https://img.shields.io/badge/-kavibro000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavibro000@gmail.com)](mailto:kavibro000@gmail.com)
+❤️ Offer work : Send the offer on [![Gmail Badge](https://img.shields.io/badge/-kavibro000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavibro000@gmail.com)](mailto:contact@kavindunimsara.com)
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Instagram-kavindu?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/itzsid_lk)](https://www.instagram.com/itzsid_lk)
