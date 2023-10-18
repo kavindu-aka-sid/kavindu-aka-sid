@@ -1,4 +1,4 @@
-###Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Kavindu](https://github.com/itzkavindu) 👨‍💻
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Kavindu](https://github.com/itzkavindu) 👨‍💻
 ![](https://komarev.com/ghpvc/?username=itzkavindu)
 
 <br/>
